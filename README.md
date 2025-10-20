@@ -1,14 +1,12 @@
-```markdown
 # 🚀 AI YouTube Video Summarizer
 
 An intelligent web application built with Python and Streamlit that generates concise summaries from YouTube videos or local video files. The app uses OpenAI's Whisper for transcription and a Hugging Face Transformer for summarization.
 
-<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/8b304205-fa87-4c89-9948-823ef4320183" />
-
+![App Screenshot](image_369a27.png)
 
 ---
 
-## Key Features ✨
+## ✨ Key Features
 
 - **Dual Input Support**: Accepts both YouTube URLs and direct video file uploads (MP4, MOV, etc.).
 - **Intelligent Transcript Fetching**: Automatically uses existing YouTube transcripts when available for a significantly faster summary.
@@ -17,7 +15,7 @@ An intelligent web application built with Python and Streamlit that generates co
 
 ---
 
-## Tech Stack 🛠️
+## 🛠️ Tech Stack
 
 - **Language**: Python
 - **Web Framework**: Streamlit
@@ -30,31 +28,23 @@ An intelligent web application built with Python and Streamlit that generates co
 
 ---
 
-## Setup & Installation
+## ⚙️ Setup & Installation
 
 To run this project locally, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/your-username/YouTube-Video-Summarizer.git
+git clone [https://github.com/Jitin10/YouTube-Video-Summarizer.git](https://github.com/Jitin10/YouTube-Video-Summarizer.git)
 cd YouTube-Video-Summarizer
-Remember to replace your-username with your actual GitHub username.
-
-**2. Create and activate a virtual environment:**
-
-```Bash
 
 # For Windows
 python -m venv venv
 .\venv\Scripts\activate
-```Bash
 
 # For macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
-**3. Install the required libraries:**
 
-```Bash
-
-pip install -r requirements.txt
-Note: This project also requires FFmpeg. Please ensure it is installed on your system and accessible from your command line.
+▶️ How to Run the App
+With your virtual environment activated and dependencies installed, run the following command in your terminal:
+streamlit run app.py

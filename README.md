@@ -32,13 +32,13 @@ An intelligent web application built with Python and Streamlit that generates co
 
 To run this project locally, follow these steps:
 
-### **1. Clone the repository:**
+# **1. Clone the repository:**
 ```bash
 git clone [https://github.com/Jitin10/YouTube-Video-Summarizer.git](https://github.com/Jitin10/YouTube-Video-Summarizer.git)
 cd YouTube-Video-Summarizer
 ```
 
-### **2. Create and activate a virtual environment:**
+# **2. Create and activate a virtual environment:**
 # For Windows
 ```bash
 python -m venv venv
@@ -51,7 +51,7 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-### **▶️ How to Run the App**
+## ▶️ How to Run the App
 ```bash
 With your virtual environment activated and dependencies installed, run the following command in your terminal:
 streamlit run app.py

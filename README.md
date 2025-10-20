@@ -52,7 +52,7 @@ source venv/bin/activate
 ```
 
 ## ▶️ How to Run the App
-```bash
 With your virtual environment activated and dependencies installed, run the following command in your terminal:
+```bash
 streamlit run app.py
 ```

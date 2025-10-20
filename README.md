@@ -15,6 +15,18 @@ An intelligent web application built with Python and Streamlit that generates co
 
 ---
 
+---
+
+## 👥 Project Contributors
+
+This project was a collaborative effort. A huge thanks to the team:
+
+- **[Jitin Nair](https://github.com/Jitin10)** 
+- **[Shruti Patil](https://github.com/shruti182004)** 
+  
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Language**: Python

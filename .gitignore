@@ -1,0 +1,20 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary media files (so you don't upload downloaded videos/audio)
+*.mp3
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.vtt
+
+# IDE / Editor specific files
+.idea/
+.vscode/
